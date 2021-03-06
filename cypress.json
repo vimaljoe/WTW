@@ -1,0 +1,10 @@
+{
+    "chromeWebSecurity": false,
+    "modifyObstructiveCode": true,
+    "experimentalSourceRewriting": true,
+
+    "env": {
+           "BaseURL": "https://www.willistowerswatson.com/"
+         }
+    
+}
